@@ -223,20 +223,24 @@ main{
     transform-origin: top;
 }
 .c1 {
-    padding-bottom: 25%;
+    padding-bottom: 20%;
     border-radius: 4px 4px 0 0;
     animation-duration: 1s;
 }
 .c2 {
-    padding-bottom: 50%;
+    padding-bottom: 40%;
     animation-duration: .6s;
 }
 .c3 {
-    padding-bottom: 75%;
+    padding-bottom:60%;
+    animation-duration: .2s;
+}
+.c5 {
+    padding-bottom:100%;
     animation-duration: .2s;
 }
 .c4 {
-    padding-bottom: 100%;
+    padding-bottom: 80%;
     border-radius: 10px 10px 0px 0px;
     animation-duration: 0s;
 }
