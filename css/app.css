@@ -187,7 +187,6 @@ main{
 }
 .item {
     width: 216px;
-    margin: 10px;
     border-radius: 6px;
     box-sizing: border-box;
     position: relative;
@@ -196,6 +195,11 @@ main{
     display: inline-block;
     text-align: left;
     animation-fill-mode: backwards;
+}
+.color-card{
+    width: 216px;
+    display: inline-block;
+    margin: 10px;
 }
 .shadow {
     box-shadow: 0 10px 40px -10px rgba(0,64,128,.2);
